@@ -1,5 +1,11 @@
 # github-search-users
 
+###INFO
+####This is a simple app that can be used to check the details of active github users 
+####Built with VueJs using Vuetify
+##Link to the live site
+https://github-search-integration.netlify.app
+
 ## Project setup
 ```
 npm install
